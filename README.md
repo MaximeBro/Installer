@@ -12,3 +12,8 @@ Extraire le projet grâce à une IDE telle qu'IntelliJ :
 ```shell
 Gradle -> Tasks -> build -> jar
 ```
+
+Si vous possédez Winrar (recommandé) :
+```shell
+Clic droit sur le .jar -> Ouvrir avec Winrar -> Launcher.properties
+```
