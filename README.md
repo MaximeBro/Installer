@@ -17,3 +17,5 @@ Si vous possédez Winrar (recommandé) :
 ```shell
 Clic droit sur le .jar -> Ouvrir avec Winrar -> Launcher.properties
 ```
+
+Enfin il vous suffit de faire un **double clic** sur le .jar pour l'exécuter.
