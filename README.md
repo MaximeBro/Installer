@@ -1,7 +1,7 @@
 # Installeur Modpack Minecraft Custom
 
 Ce projet a été réalisé grâce aux vidéos de [KinderrKill](https://github.com/KinderrKill).
-Ce projet reprend notamment le projet - [Minecraft-Installer](https://github.com/KinderrKill/Minecraft-Installer) et vise à créer une version acceptant les mods minecraft forge et fabric. Quelques fix ont également été apportés tels que la barre de progression de téléchargement, le téléchargement des fichiers via un serveur web distant, les configurations de lancement et la détection du jeu.
+Ce projet reprend notamment le projet [Minecraft-Installer](https://github.com/KinderrKill/Minecraft-Installer) et vise à créer une version acceptant les mods minecraft forge et fabric. Quelques fix ont également été apportés tels que la barre de progression de téléchargement, le téléchargement des fichiers via un serveur web distant, les configurations de lancement et la détection du jeu.
 Cet installeur ne demande aucun connaissance particulière en programmation mais nécessite un outil d'extraction tel que Winrar.
 
 ## Comment utiliser cet installeur ?
